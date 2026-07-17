@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{TITLE}} — The AI Lab Report</title>
+<meta name="description" content="{{META_DESCRIPTION}}">
+<meta property="og:title" content="{{TITLE}}">
+<meta property="og:description" content="{{META_DESCRIPTION}}">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://theailabreport.com/blog/posts/{{SLUG}}.html">
+<meta property="article:published_time" content="{{ISO_DATE}}">
+<link rel="canonical" href="https://theailabreport.com/blog/posts/{{SLUG}}.html">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/style.css">
+
+<!-- Structured data for search / AI answer engines -->
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"BlogPosting",
+  "headline":"{{TITLE}}",
+  "description":"{{META_DESCRIPTION}}",
+  "datePublished":"{{ISO_DATE}}",
+  "author":{"@type":"Person","name":"Jeremy Magruder"},
+  "publisher":{"@type":"Organization","name":"The AI Lab Report","alternateName":"Magruder Media"},
+  "mainEntityOfPage":"https://theailabreport.com/blog/posts/{{SLUG}}.html"
+}
+</script>
+
+<!-- GOOGLE ANALYTICS — replace G-XXXXXXXXXX with your GA4 ID -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-XXXXXXXXXX');
+</script>
+</head>
+<body>
+<div class="glowfield"></div>
+
+<header class="nav">
+  <div class="wrap">
+    <a class="brand" href="/">
+      <div class="brandmark">A</div>
+      <div><div class="name">THE AI LAB REPORT</div></div>
+    </a>
+    <nav class="links">
+      <a href="/blog/">Blog</a>
+      <a href="https://www.youtube.com/@TheAiLabReport" target="_blank" rel="noopener">YouTube</a>
+      <a href="https://the-ai-lab-report.kit.com/ecbaa90629" target="_blank" rel="noopener">Newsletter</a>
+      <a class="btn" href="https://www.youtube.com/@TheAiLabReport?sub_confirmation=1" target="_blank" rel="noopener">Subscribe</a>
+    </nav>
+  </div>
+</header>
+
+<article>
+  <div class="post-wrap">
+    <div class="post-hero">
+      <div class="meta">
+        <span class="tag {{TAG_CLASS}}">{{PILLAR}}</span>
+        <span class="date">{{DISPLAY_DATE}}</span>
+      </div>
+      <h1>{{TITLE}}</h1>
+      <p class="dek">{{DEK}}</p>
+    </div>
+
+    <div class="video-embed">
+      <iframe src="https://www.youtube.com/embed/{{YOUTUBE_ID}}" title="{{TITLE}}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
+
+    <div class="post-body">
+{{BODY}}
+
+      <div class="kit-cta">
+        <div class="eyebrow">{{CTA_EYEBROW}}</div>
+        <h3>{{CTA_HEADING}}</h3>
+        <p>{{CTA_TEXT}}</p>
+        <a class="btn" href="https://the-ai-lab-report.kit.com/ecbaa90629" target="_blank" rel="noopener">{{CTA_BUTTON}} →</a>
+      </div>
+
+      <div class="tools-note">
+{{TOOLS_NOTE}}
+      </div>
+    </div>
+  </div>
+</article>
+
+<footer class="site">
+  <div class="wrap">
+    <div class="fbrand">
+      <a class="brand" href="/">
+        <div class="brandmark">A</div>
+        <div><div class="name">THE AI LAB REPORT</div></div>
+      </a>
+      <p>Breaking AI news, the Musk ecosystem, Anthropic, and the tools reshaping how we work and create.</p>
+    </div>
+    <div class="fcol">
+      <h4>Explore</h4>
+      <a href="/blog/">Blog</a>
+      <a href="https://www.youtube.com/@TheAiLabReport" target="_blank" rel="noopener">YouTube Channel</a>
+      <a href="https://the-ai-lab-report.kit.com/ecbaa90629" target="_blank" rel="noopener">Free Tool Stack PDF</a>
+    </div>
+    <div class="fcol">
+      <h4>Follow</h4>
+      <a href="https://www.youtube.com/@TheAiLabReport?sub_confirmation=1" target="_blank" rel="noopener">Subscribe on YouTube</a>
+      <a href="https://x.com/TheAiLabReport" target="_blank" rel="noopener">X / @TheAiLabReport</a>
+    </div>
+    <div class="legal">© 2026 Magruder Media. The AI Lab Report. All rights reserved.</div>
+  </div>
+</footer>
+
+</body>
+</html>
