@@ -1,7 +1,7 @@
 [
   {
     "slug": "fable-5-returns",
-    "title": "They Banned Claude's Best AI—Then Admitted Weaker Ones Could Do the Same Thing",
+    "title": "They Banned Claude's Best AI\u2014Then Admitted Weaker Ones Could Do the Same Thing",
     "dek": "A frontier AI model was pulled from the entire planet by a government export order. Then Anthropic's own testing showed weaker, already-available models could do the exact thing the ban was supposed to stop.",
     "pillar": "Anthropic & Claude",
     "tag_class": "",
@@ -9,5 +9,16 @@
     "display_date": "July 9, 2026",
     "iso_date": "2026-07-09T15:00:00-04:00",
     "sort_key": "2026-07-09"
+  },
+  {
+    "slug": "ai-election-promise-trust-vote-counts",
+    "title": "AI's Election Promise: How Technology Could Finally Build Trust in Vote Counts",
+    "dek": "The ongoing fight over election news isn't about censorship; it's a deep-seated trust issue AI could solve, making partisan arguments obsolete.",
+    "pillar": "AI Arms Race",
+    "tag_class": "",
+    "youtube_id": "vl_B2oap6Tw",
+    "display_date": "July 20, 2026",
+    "iso_date": "2026-07-20T15:00:00-04:00",
+    "sort_key": "2026-07-20"
   }
 ]
