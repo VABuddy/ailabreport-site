@@ -196,5 +196,49 @@
     "display_date": "July 13, 2026",
     "iso_date": "2026-07-13T15:00:00-04:00",
     "sort_key": "2026-07-13"
+  },
+  {
+    "slug": "ai-world-cup-prediction-reasoning-vs-luck",
+    "title": "One AI Predicted the World Cup Winner: Was it Luck or True Reasoning?",
+    "dek": "A recent World Cup prediction experiment reveals the critical difference between AI models that reason effectively and those that merely pattern-match, offering a vital lesson for trusting AI.",
+    "pillar": "AI News & Analysis",
+    "tag_class": "",
+    "youtube_id": "YGFIDPcuYqU",
+    "display_date": "July 22, 2026",
+    "iso_date": "2026-07-22T15:00:00-04:00",
+    "sort_key": "2026-07-22"
+  },
+  {
+    "slug": "widening-ai-gap-capability-control",
+    "title": "The Widening AI Gap: Capability Surges, Control Stumbles",
+    "dek": "This week, two seemingly unrelated AI developments from China and OpenAI highlight a critical, emerging challenge that should worry us all.",
+    "pillar": "AI News & Analysis",
+    "tag_class": "",
+    "youtube_id": "wSqXE458mQQ",
+    "display_date": "July 23, 2026",
+    "iso_date": "2026-07-23T15:00:00-04:00",
+    "sort_key": "2026-07-23"
+  },
+  {
+    "slug": "how-ai-really-works-prediction-not-truth",
+    "title": "The Unsettling Truth About How AI Really Works",
+    "dek": "Forget what the marketing says. The real power of AI isn't in thinking or understanding, but in a sophisticated trick that's both brilliant and prone to confident falsehoods.",
+    "pillar": "AI News & Analysis",
+    "tag_class": "",
+    "youtube_id": "2wtyam-GNyI",
+    "display_date": "July 26, 2026",
+    "iso_date": "2026-07-26T15:00:00-04:00",
+    "sort_key": "2026-07-26"
+  },
+  {
+    "slug": "elon-musk-tesla-spacex-merger-inevitable",
+    "title": "Elon Musk's Master Plan: Why a Tesla-SpaceX Merger Isn't Just Talk Anymore",
+    "dek": "Elon Musk's recent comments on a potential Tesla-SpaceX merger weren't just evasive; they were a clear signal that this massive consolidation isn't a matter of 'if,' but 'when.'",
+    "pillar": "AI News & Analysis",
+    "tag_class": "",
+    "youtube_id": "ARGu6snEczM",
+    "display_date": "July 27, 2026",
+    "iso_date": "2026-07-27T15:00:00-04:00",
+    "sort_key": "2026-07-27"
   }
 ]
