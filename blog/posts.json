@@ -130,5 +130,27 @@
     "display_date": "June 30, 2026",
     "iso_date": "2026-06-30T15:00:00-04:00",
     "sort_key": "2026-06-30"
+  },
+  {
+    "slug": "2026-world-cup-ai-predictions",
+    "title": "2026 World Cup: Can AI Predict the Future of Football?",
+    "dek": "We challenged four of the most powerful AI systems on the planet to predict the 2026 FIFA World Cup, and the results were anything but unanimous.",
+    "pillar": "AI News & Analysis",
+    "tag_class": "",
+    "youtube_id": "c5W183S6jVk",
+    "display_date": "July 1, 2026",
+    "iso_date": "2026-07-01T15:00:00-04:00",
+    "sort_key": "2026-07-01"
+  },
+  {
+    "slug": "world-cup-2026-ai-predictions-face-reality",
+    "title": "World Cup 2026: AI Predictions Face Reality \u2013 Who's Winning the Bracket?",
+    "dek": "We pitted Claude, ChatGPT, Gemini, and Grok against each other to predict the 2026 World Cup. Now, as the Round of 16 heats up, it's time to see which AI is a football genius and which is already out of the game.",
+    "pillar": "AI News & Analysis",
+    "tag_class": "",
+    "youtube_id": "E6gw3Yx0yV8",
+    "display_date": "July 3, 2026",
+    "iso_date": "2026-07-03T15:00:00-04:00",
+    "sort_key": "2026-07-03"
   }
 ]
