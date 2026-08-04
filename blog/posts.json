@@ -152,5 +152,27 @@
     "display_date": "July 3, 2026",
     "iso_date": "2026-07-03T15:00:00-04:00",
     "sort_key": "2026-07-03"
+  },
+  {
+    "slug": "us-government-shuts-down-anthropic-fable-5-ai",
+    "title": "The Day AI Policy Became Real: US Government Shuts Down Anthropic's Fable 5",
+    "dek": "Last Friday, the most powerful publicly available AI model, Anthropic's Claude Fable 5, was ordered offline by the US government, marking a pivotal moment in AI policy and government intervention.",
+    "pillar": "AI News & Analysis",
+    "tag_class": "",
+    "youtube_id": "SEY_MT56i8A",
+    "display_date": "June 16, 2026",
+    "iso_date": "2026-06-16T15:00:00-04:00",
+    "sort_key": "2026-06-16"
+  },
+  {
+    "slug": "openai-goal-mode-autonomous-coding",
+    "title": "OpenAI's Goal Mode: The AI That Codes While You Sleep",
+    "dek": "Imagine giving an AI a single objective, then walking away for hours \u2014 or even days \u2014 only to return and find the entire project finished. This isn't science fiction; it's OpenAI's new reality.",
+    "pillar": "AI News & Analysis",
+    "tag_class": "",
+    "youtube_id": "mfzxMOxn_W8",
+    "display_date": "July 8, 2026",
+    "iso_date": "2026-07-08T15:00:00-04:00",
+    "sort_key": "2026-07-08"
   }
 ]
