@@ -108,5 +108,27 @@
     "display_date": "June 23, 2026",
     "iso_date": "2026-06-23T15:00:00-04:00",
     "sort_key": "2026-06-23"
+  },
+  {
+    "slug": "claude-opus-4-7-robotics-race",
+    "title": "Anthropic's Claude Opus 4.7: The AI That Beat Humans by 37x in a Robotics Race",
+    "dek": "A recent Anthropic experiment showed Claude Opus 4.7 programming a robot dog to complete complex tasks 37 times faster than human teams, pushing us into a new era of physical AI.",
+    "pillar": "AI News & Analysis",
+    "tag_class": "",
+    "youtube_id": "ThlouwXL6Tg",
+    "display_date": "June 25, 2026",
+    "iso_date": "2026-06-25T15:00:00-04:00",
+    "sort_key": "2026-06-25"
+  },
+  {
+    "slug": "ai-divide-trump-newsom-anthropic-california",
+    "title": "The Great AI Divide: Why Trump Restricted One AI Company, While Newsom Handed It the Keys to California",
+    "dek": "In a stunning display of political and technological divergence, two of America's most influential leaders took opposing stances on the same AI company within days.",
+    "pillar": "AI News & Analysis",
+    "tag_class": "",
+    "youtube_id": "n_guXm10qM0",
+    "display_date": "June 30, 2026",
+    "iso_date": "2026-06-30T15:00:00-04:00",
+    "sort_key": "2026-06-30"
   }
 ]
