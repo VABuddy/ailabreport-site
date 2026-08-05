@@ -240,5 +240,16 @@
     "display_date": "July 27, 2026",
     "iso_date": "2026-07-27T15:00:00-04:00",
     "sort_key": "2026-07-27"
+  },
+  {
+    "slug": "ai-agents-bank-accounts-cloudflare-wallets",
+    "title": "AI Agents Just Got Their Own Bank Accounts: Why This Changes Everything",
+    "dek": "A major internet infrastructure company has quietly equipped AI agents with real, programmable wallets, granting them the autonomy to spend money online without human oversight.",
+    "pillar": "AI News & Analysis",
+    "tag_class": "",
+    "youtube_id": "BeUwxpw8kuE",
+    "display_date": "August 5, 2026",
+    "iso_date": "2026-08-05T15:00:00-04:00",
+    "sort_key": "2026-08-05"
   }
 ]
