@@ -262,5 +262,16 @@
     "display_date": "August 6, 2026",
     "iso_date": "2026-08-06T15:00:00-04:00",
     "sort_key": "2026-08-06"
+  },
+  {
+    "slug": "openai-astra-ai-broke-safety-limits",
+    "title": "OpenAI's Astra: The AI That Broke All Safety Limits",
+    "dek": "A new AI model from OpenAI, internally named Astra, has breached unprecedented safety thresholds, forcing its developers to pause its release and rethink containment strategies.",
+    "pillar": "AI News & Analysis",
+    "tag_class": "",
+    "youtube_id": "2EMFzOnUcBw",
+    "display_date": "August 6, 2026",
+    "iso_date": "2026-08-06T15:00:00-04:00",
+    "sort_key": "2026-08-06"
   }
 ]
