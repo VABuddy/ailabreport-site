@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Zero Camera, Zero Editor: How I Make These Videos Now (Including What Broke) — The AI Lab Report</title>
+<meta name="description" content="A start-to-finish look at making AI videos with no camera and no editor: HeyGen avatars, vidIQ compositing, DaVinci Resolve, sound design, costs, and what broke.">
+<meta property="og:title" content="Zero Camera, Zero Editor: How I Make These Videos Now (Including What Broke)">
+<meta property="og:description" content="A start-to-finish look at making AI videos with no camera and no editor: HeyGen avatars, vidIQ compositing, DaVinci Resolve, sound design, costs, and what broke.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://theailabreport.com/blog/posts/how-i-make-ai-videos-zero-camera-zero-editor.html">
+<meta property="article:published_time" content="2026-08-24T15:00:00-04:00">
+<link rel="canonical" href="https://theailabreport.com/blog/posts/how-i-make-ai-videos-zero-camera-zero-editor.html">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/style.css">
+
+<!-- Structured data for search / AI answer engines -->
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"BlogPosting",
+  "headline":"Zero Camera, Zero Editor: How I Make These Videos Now (Including What Broke)",
+  "description":"A start-to-finish look at making AI videos with no camera and no editor: HeyGen avatars, vidIQ compositing, DaVinci Resolve, sound design, costs, and what broke.",
+  "datePublished":"2026-08-24T15:00:00-04:00",
+  "author":{"@type":"Person","name":"Jeremy Magruder"},
+  "publisher":{"@type":"Organization","name":"The AI Lab Report","alternateName":"Magruder Media"},
+  "mainEntityOfPage":"https://theailabreport.com/blog/posts/how-i-make-ai-videos-zero-camera-zero-editor.html"
+}
+</script>
+
+<!-- GOOGLE ANALYTICS — replace G-0S716J7KVX with your GA4 ID -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0S716J7KVX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-0S716J7KVX');
+</script>
+</head>
+<body>
+<div class="glowfield"></div>
+
+<header class="nav">
+  <div class="wrap">
+    <a class="brand" href="/">
+      <div class="brandmark">A</div>
+      <div><div class="name">THE AI LAB REPORT</div></div>
+    </a>
+    <nav class="links">
+      <a href="/blog/">Blog</a>
+      <a href="https://www.youtube.com/@TheAiLabReport" target="_blank" rel="noopener">YouTube</a>
+      <a href="https://the-ai-lab-report.kit.com/ecbaa90629" target="_blank" rel="noopener">Newsletter</a>
+      <a class="btn" href="https://www.youtube.com/@TheAiLabReport?sub_confirmation=1" target="_blank" rel="noopener">Subscribe</a>
+    </nav>
+  </div>
+</header>
+
+<article>
+  <div class="post-wrap">
+    <div class="post-hero">
+      <div class="meta">
+        <span class="tag ">AI Tools &amp; Tutorials</span>
+        <span class="date">August 24, 2026</span>
+      </div>
+      <h1>Zero Camera, Zero Editor: How I Make These Videos Now (Including What Broke)</h1>
+      <p class="dek">No camera, no editor, no crew. A start-to-finish walkthrough of the AI video workflow behind this channel, from the avatar to the final assembly, including the expensive mistakes.</p>
+    </div>
+
+    <div class="video-embed">
+      <iframe src="https://www.youtube.com/embed/aqh8wd7wiuI" title="Zero Camera, Zero Editor: How I Make These Videos Now (Including What Broke)" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
+
+    <div class="post-body">
+<p>No camera, no editor, no production crew. Just me, some AI tools, and honestly more trial and error than I would like to admit. Here is how these videos actually get made, start to finish, including the parts that broke, because those are the parts that teach you something.</p>
+
+<h2>Step 1: The avatar</h2>
+<p>Everything starts in HeyGen. I trained a model off a batch of my own photos, not a stock avatar but an actual version of me, and I built three different looks depending on what I am covering. The workshop look is reserved for tutorials and explainers. News and analysis videos get a different setting, and heavier government or policy stories get a third.</p>
+<p>Voice speed matters more than you would think. I run mine at 1.2x: fast enough to feel energetic, slow enough that it does not sound like I have had six coffees. There is also a calibration quirk I learned the hard way more than once. Whatever runtime you are aiming for, write the script to be about 50 percent longer than that. I hit this exact problem making the original version of this video: the first draft came in under five minutes when I needed closer to ten, so the version you are watching is a second pass, written long on purpose.</p>
+<p>There is a credit cost to plan for, too. HeyGen has different avatar tiers, and the higher-quality ones cost real credits per minute. So I do not run the whole video on the expensive setting. I save it for one hero moment, usually the opening hook, and the rest runs on the standard tier. Nobody can tell the difference watching, and it keeps the whole thing sustainable.</p>
+
+<h2>Step 2: Editing, or avoiding as much of it as possible</h2>
+<p>I render each scene as one continuous take instead of cutting and restarting every few lines. I only start a new scene when I switch avatars or looks. Then I bring everything into vidIQ to composite it.</p>
+<p>This is where I have made some of my most expensive mistakes. vidIQ's composite tool has a hard 240-second cap per render. If you go over, it does not gracefully trim your video; it fails outright. I lost real time learning that, and now I chunk everything into pieces under four minutes before I start.</p>
+<p>Sourcing footage has its own landmine: Google Drive. If a video file is large enough, Drive shows a virus-scan warning page instead of the file, and a tool trying to pull that link automatically gets a web page instead of your video. Half the time the real culprit was not the file type at all. It was a sharing permission set to restricted instead of anyone with the link. Small setting, huge difference.</p>
+<p>This is also where the visual layer happens: pop-up text on key stats, real B-roll instead of generic stock whenever I can get it, and lately actual sourced clips from the companies I am covering. If a company posts footage of the exact thing I am talking about, I will use a real clip of it rather than a recreation, briefly, under fair use, wrapped in my own analysis. One more lesson: when syncing a pop-up to a spoken line, it should land slightly after the line starts, not right on top of it, or the graphic feels like it is rushing ahead of what is being said.</p>
+
+<h2>Step 3: DaVinci Resolve, the final assembly</h2>
+<p>I follow a build order religiously, because doing it out of order creates more work, not less. The main render goes down first. Then chapter cards. Then all the overlays and pop-up graphics. B-roll goes in dead last, only after everything else is locked, because B-roll is supposed to fill actual gaps, not something I build the video around. Place it first and you rebuild it every time something else shifts.</p>
+<p>I also tested a brand-new feature on this video, IntelliScript, which is supposed to auto-generate a rough cut from a script. I had owned the software for months and never used it, so I tried it on camera rather than quietly off to the side.</p>
+<p>And one thing I only just started doing: real sound design. For a while every video had a single background track running start to finish. Now I layer in sound effects tied to specific moments: a soft transition sound when a chapter card appears, a subtle click when a pop-up lands, a small riser building into the hook. None of it is loud or gimmicky. It is the difference between a video that feels intentional and one that just has music playing under it.</p>
+
+<h2>Step 4: The tools doing the heavy lifting</h2>
+<p>The voice sometimes gets a pass through ElevenLabs when I need something cleaner than the raw output. Keyword research and title scoring, before I ever call a script ready, is vidIQ again, a completely different job from the compositing. I am not sponsored to say any of this. I run the same handful of tools over and over because they hold up. None of this is one magic platform. It is four or five separate tools, each handling one piece, stitched together through a process I refined mostly by breaking it and fixing it.</p>
+
+<h2>What does it actually cost?</h2>
+<p>Not free, but nowhere close to what a camera, lighting, a mic setup, and editing software would have cost a few years ago. Avatar rendering runs on a credit system where the higher tier costs meaningfully more per minute, which is exactly why I use it for one moment per video. The compositing tool has its own separate credit pool, and most of what I use beyond that is a monthly subscription rather than a per-video cost.</p>
+<p>The real cost is not dollars. It is time. Every workflow mistake in this post cost me an afternoon, not money. That is the trade: cheaper in cash, more expensive in trial and error, at least at the start.</p>
+
+<h2>The honest bottom line</h2>
+<p>No camera, no editor, just a stubborn amount of trial and error and tools that got good enough that one person can do this alone. If you are thinking about building something similar, the barrier is lower than you think. It is not about the fanciest setup or getting everything right the first time. It is about actually finishing videos instead of endlessly tweaking the first one.</p>
+
+      <div class="kit-cta">
+        <div class="eyebrow">Free Download</div>
+        <h3>Get the Complete AI YouTube Tool Stack</h3>
+        <p>The exact tools behind this workflow, in one free PDF. Join the newsletter and get it instantly.</p>
+        <a class="btn" href="https://the-ai-lab-report.kit.com/ecbaa90629" target="_blank" rel="noopener">Get the Free Tool Stack →</a>
+      </div>
+
+      <div class="tools-note">
+<p><strong>Tools mentioned:</strong> HeyGen (avatars), <a href="https://try.elevenlabs.io/ailabreport" target="_blank" rel="noopener">ElevenLabs</a> (voice), <a href="https://vidiq.com/AILabReport" target="_blank" rel="noopener">vidIQ</a> (compositing, keyword research, title scoring), and DaVinci Resolve (final assembly).</p>
+<p><em>Disclosure: the ElevenLabs and vidIQ links above are affiliate links. If you sign up through them, I may earn a commission at no extra cost to you.</em></p>
+      </div>
+    </div>
+  </div>
+</article>
+
+<footer class="site">
+  <div class="wrap">
+    <div class="fbrand">
+      <a class="brand" href="/">
+        <div class="brandmark">A</div>
+        <div><div class="name">THE AI LAB REPORT</div></div>
+      </a>
+      <p>Breaking AI news, the Musk ecosystem, Anthropic, and the tools reshaping how we work and create.</p>
+    </div>
+    <div class="fcol">
+      <h4>Explore</h4>
+      <a href="/blog/">Blog</a>
+      <a href="https://www.youtube.com/@TheAiLabReport" target="_blank" rel="noopener">YouTube Channel</a>
+      <a href="https://the-ai-lab-report.kit.com/ecbaa90629" target="_blank" rel="noopener">Free Tool Stack PDF</a>
+    </div>
+    <div class="fcol">
+      <h4>Follow</h4>
+      <a href="https://www.youtube.com/@TheAiLabReport?sub_confirmation=1" target="_blank" rel="noopener">Subscribe on YouTube</a>
+      <a href="https://x.com/TheAiLabReport" target="_blank" rel="noopener">X / @TheAiLabReport</a>
+    </div>
+    <div class="legal">© 2026 Magruder Media. The AI Lab Report. All rights reserved.</div>
+  </div>
+</footer>
+
+</body>
+</html>
