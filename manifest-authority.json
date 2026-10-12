@@ -1,0 +1,9 @@
+{
+  "authoritative": "blog/posts.json",
+  "deprecated_snapshot": "posts.json",
+  "canonical_article_directory": "blog/posts",
+  "legacy_root_snapshot_note": "Preserved pre-release 35-entry snapshot. It is not a current manifest and must never rebuild the index. Original copies are retained in verified Phase 3 backups.",
+  "reconciliation_evidence": "C:\\MagruderMedia\\AI-Lab\\Production\\Automation\\Blog-Generator\\Phase-02\\audit\\article-audit.csv",
+  "storage_root": "C:\\MagruderMedia",
+  "publication_requires": "Jeremy final authorization; no commit/push/deployment in Phase 3"
+}
