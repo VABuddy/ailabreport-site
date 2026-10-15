@@ -1,0 +1,53 @@
+{
+  "origin": "https://theailabreport.com",
+  "approved_pages": [
+    "index.html",
+    "blog/index.html",
+    "newsletter/index.html"
+  ],
+  "manifest": "blog/posts.json",
+  "legacy_pages": [
+    "posts/2026-world-cup-ai-predictions.html",
+    "posts/ai-affiliate-marketing-system-earn-while-you-sleep.html",
+    "posts/ai-cant-slow-down-builders-say-it-should.html",
+    "posts/ai-divide-trump-newsom-anthropic-california.html",
+    "posts/ai-safety-index-every-major-lab-graded-nobody-passed.html",
+    "posts/ai-world-cup-prediction-reasoning-vs-luck.html",
+    "posts/ais-radical-solution-election-trust.html",
+    "posts/anthropic-fable-5-drone-flew-into-wall-dronebench.html",
+    "posts/clone-your-voice-with-ai-record-once-type-forever-11-labs.html",
+    "posts/faceless-ai-youtube-channel-blueprint-2026.html",
+    "posts/google-gemini-omni-ai-video-youtube.html",
+    "posts/how-ai-really-works-prediction-not-thinks.html",
+    "posts/how-i-make-ai-videos-zero-camera-zero-editor.html",
+    "posts/how-to-create-ai-avatar-heygen.html",
+    "posts/openai-agents-wiki-coordination-board-astra.html",
+    "posts/openai-astra-ai-broke-safety-limits.html",
+    "posts/openai-goal-mode-autonomous-coding.html",
+    "posts/openai-gpt-5-6-restricted-government-covered-frontier-models.html",
+    "posts/openai-math-problem-credit-dispute-jobs-ai-arms-race.html",
+    "posts/tesla-cybercab-45-cars-no-livestream-austin.html",
+    "posts/what-grok-bot-actually-is-90-percent-done.html"
+  ],
+  "redirects": [
+    "blog/posts/ais-radical-solution-election-trust.html"
+  ],
+  "assets": [
+    "assets/brain-logo-web.png",
+    "assets/brain-logo.png",
+    "assets/editorial/ai-cant-slow-down-builders-say-it-should.webp",
+    "assets/editorial/ai-world-cup-prediction-reasoning-vs-luck.webp",
+    "assets/editorial/clone-your-voice-with-ai-record-once-type-forever-11-labs.webp",
+    "assets/editorial/how-ai-really-works-prediction-not-truth.webp",
+    "assets/editorial/how-i-make-ai-videos-zero-camera-zero-editor.webp",
+    "assets/editorial/how-to-create-ai-avatar-heygen.webp",
+    "assets/editorial/mistral-large-4-europe-ai-benchmarks.webp",
+    "assets/editorial/openai-agents-wiki-coordination-board-astra.webp",
+    "assets/editorial/openai-math-problem-credit-dispute-jobs-ai-arms-race.webp",
+    "assets/hero-bg.png",
+    "assets/logo-mark.png",
+    "assets/logo-small.png",
+    "assets/publication.js",
+    "assets/style.css"
+  ]
+}

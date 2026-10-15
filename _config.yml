@@ -1,0 +1,15 @@
+# Use the approved publication assets, not the default GitHub Pages theme.
+theme: null
+
+# Keep operational source/history in Git, outside the GitHub Pages artifact.
+exclude:
+  - templates
+  - tools
+  - README.md
+  - CHANGES.md
+  - manifest-authority.json
+  - posts.json
+  - drafts
+  - previews
+  - evidence
+  - backups

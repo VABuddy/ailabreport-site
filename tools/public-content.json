@@ -1,0 +1,492 @@
+{
+  "version": 1,
+  "authority": "Reviewed publication ledger, matched to live manifest and retained release; not inferred from arbitrary local files",
+  "entries": [
+    {
+      "slug": "fable-5-returns",
+      "youtube_id": "xqZeIz-HpPY",
+      "episode_format": "long-form",
+      "approval_status": "approved",
+      "publication_status": "public",
+      "public_verified": true,
+      "public_episode_date": "2026-07-09",
+      "article_sha256": "24e29bae10a305d6cd1affc59d2dde34e4a0a9e88fa5969ee7e1e40e09066d06",
+      "evidence": {
+        "approved_site_release": "408e030aa03f69175a69f3d9dee8a5722de1115f",
+        "public_manifest": "https://theailabreport.com/blog/posts.json",
+        "format_and_episode_date_source": "C:\\MagruderMedia\\AI-Lab\\Production\\Deliverables\\Competitive-Intelligence\\2026-10-14\\Channel-60-Video-Inventory.csv",
+        "source_sha256": "02bdfbc674220a7f0e2b2d0e45baa75e82722f080fa31320eeb600fe2e1c1985",
+        "checked_date": "2026-10-14"
+      },
+      "image_path": null
+    },
+    {
+      "slug": "ai-election-promise-trust-vote-counts",
+      "youtube_id": "vl_B2oap6Tw",
+      "episode_format": "long-form",
+      "approval_status": "approved",
+      "publication_status": "public",
+      "public_verified": true,
+      "public_episode_date": "2026-07-20",
+      "article_sha256": "30a19705930e38bb7025c1b2fa5c1d5b54407f055ed4bff1b8df5d4f97ea28a4",
+      "evidence": {
+        "approved_site_release": "408e030aa03f69175a69f3d9dee8a5722de1115f",
+        "public_manifest": "https://theailabreport.com/blog/posts.json",
+        "format_and_episode_date_source": "C:\\MagruderMedia\\AI-Lab\\Production\\Deliverables\\Competitive-Intelligence\\2026-10-14\\Channel-60-Video-Inventory.csv",
+        "source_sha256": "02bdfbc674220a7f0e2b2d0e45baa75e82722f080fa31320eeb600fe2e1c1985",
+        "checked_date": "2026-10-14"
+      },
+      "image_path": null
+    },
+    {
+      "slug": "ai-blacklist-global-control-us-china-gulf-states",
+      "youtube_id": "SB2QpXXVIxM",
+      "episode_format": "long-form",
+      "approval_status": "approved",
+      "publication_status": "public",
+      "public_verified": true,
+      "public_episode_date": "2026-07-29",
+      "article_sha256": "e7932ee413296de208f41a572582bf12de073ee4c033478c21ec5fb33f987124",
+      "evidence": {
+        "approved_site_release": "408e030aa03f69175a69f3d9dee8a5722de1115f",
+        "public_manifest": "https://theailabreport.com/blog/posts.json",
+        "format_and_episode_date_source": "C:\\MagruderMedia\\AI-Lab\\Production\\Deliverables\\Competitive-Intelligence\\2026-10-14\\Channel-60-Video-Inventory.csv",
+        "source_sha256": "02bdfbc674220a7f0e2b2d0e45baa75e82722f080fa31320eeb600fe2e1c1985",
+        "checked_date": "2026-10-14"
+      },
+      "image_path": null
+    },
+    {
+      "slug": "claude-opus-4-7-robotics-race",
+      "youtube_id": "ThlouwXL6Tg",
+      "episode_format": "long-form",
+      "approval_status": "approved",
+      "publication_status": "public",
+      "public_verified": true,
+      "public_episode_date": "2026-06-25",
+      "article_sha256": "e53f08652467fab7b0f3f7ec3bdb33cf3b053e316e3409b73ff1a75e0dcafdb8",
+      "evidence": {
+        "approved_site_release": "408e030aa03f69175a69f3d9dee8a5722de1115f",
+        "public_manifest": "https://theailabreport.com/blog/posts.json",
+        "format_and_episode_date_source": "C:\\MagruderMedia\\AI-Lab\\Production\\Deliverables\\Competitive-Intelligence\\2026-10-14\\Channel-60-Video-Inventory.csv",
+        "source_sha256": "02bdfbc674220a7f0e2b2d0e45baa75e82722f080fa31320eeb600fe2e1c1985",
+        "checked_date": "2026-10-14"
+      },
+      "image_path": null
+    },
+    {
+      "slug": "ai-divide-trump-newsom-anthropic-california",
+      "youtube_id": "n_guXm10qM0",
+      "episode_format": "long-form",
+      "approval_status": "approved",
+      "publication_status": "public",
+      "public_verified": true,
+      "public_episode_date": "2026-06-30",
+      "article_sha256": "a684c1b172ee4e00ca3c725aa37510232764c325662041cd967a89ff29112e9d",
+      "evidence": {
+        "approved_site_release": "408e030aa03f69175a69f3d9dee8a5722de1115f",
+        "public_manifest": "https://theailabreport.com/blog/posts.json",
+        "format_and_episode_date_source": "C:\\MagruderMedia\\AI-Lab\\Production\\Deliverables\\Competitive-Intelligence\\2026-10-14\\Channel-60-Video-Inventory.csv",
+        "source_sha256": "02bdfbc674220a7f0e2b2d0e45baa75e82722f080fa31320eeb600fe2e1c1985",
+        "checked_date": "2026-10-14"
+      },
+      "image_path": null
+    },
+    {
+      "slug": "2026-world-cup-ai-predictions",
+      "youtube_id": "c5W183S6jVk",
+      "episode_format": "long-form",
+      "approval_status": "approved",
+      "publication_status": "public",
+      "public_verified": true,
+      "public_episode_date": "2026-07-01",
+      "article_sha256": "a6390e72e242a6ce7e24c78bc19a52d8b79f01762959d582e0ca522031a1a50d",
+      "evidence": {
+        "approved_site_release": "408e030aa03f69175a69f3d9dee8a5722de1115f",
+        "public_manifest": "https://theailabreport.com/blog/posts.json",
+        "format_and_episode_date_source": "C:\\MagruderMedia\\AI-Lab\\Production\\Deliverables\\Competitive-Intelligence\\2026-10-14\\Channel-60-Video-Inventory.csv",
+        "source_sha256": "02bdfbc674220a7f0e2b2d0e45baa75e82722f080fa31320eeb600fe2e1c1985",
+        "checked_date": "2026-10-14"
+      },
+      "image_path": null
+    },
+    {
+      "slug": "world-cup-2026-ai-predictions-face-reality",
+      "youtube_id": "E6gw3Yx0yV8",
+      "episode_format": "long-form",
+      "approval_status": "approved",
+      "publication_status": "public",
+      "public_verified": true,
+      "public_episode_date": "2026-07-03",
+      "article_sha256": "befd3195d9efac12b49d4567d37c39bccd9139b581820d75e85fed4b7935c996",
+      "evidence": {
+        "approved_site_release": "408e030aa03f69175a69f3d9dee8a5722de1115f",
+        "public_manifest": "https://theailabreport.com/blog/posts.json",
+        "format_and_episode_date_source": "C:\\MagruderMedia\\AI-Lab\\Production\\Deliverables\\Competitive-Intelligence\\2026-10-14\\Channel-60-Video-Inventory.csv",
+        "source_sha256": "02bdfbc674220a7f0e2b2d0e45baa75e82722f080fa31320eeb600fe2e1c1985",
+        "checked_date": "2026-10-14"
+      },
+      "image_path": null
+    },
+    {
+      "slug": "openai-goal-mode-autonomous-coding",
+      "youtube_id": "mfzxMOxn_W8",
+      "episode_format": "long-form",
+      "approval_status": "approved",
+      "publication_status": "public",
+      "public_verified": true,
+      "public_episode_date": "2026-07-08",
+      "article_sha256": "0a8c46b64e515e94fea4201c366b6b83c02e31ebe98b166b081f651553d736eb",
+      "evidence": {
+        "approved_site_release": "408e030aa03f69175a69f3d9dee8a5722de1115f",
+        "public_manifest": "https://theailabreport.com/blog/posts.json",
+        "format_and_episode_date_source": "C:\\MagruderMedia\\AI-Lab\\Production\\Deliverables\\Competitive-Intelligence\\2026-10-14\\Channel-60-Video-Inventory.csv",
+        "source_sha256": "02bdfbc674220a7f0e2b2d0e45baa75e82722f080fa31320eeb600fe2e1c1985",
+        "checked_date": "2026-10-14"
+      },
+      "image_path": null
+    },
+    {
+      "slug": "tesla-optimus-vs-figureai-who-is-really-winning-humanoid-robot-race",
+      "youtube_id": "ty45QHSmm0E",
+      "episode_format": "long-form",
+      "approval_status": "approved",
+      "publication_status": "public",
+      "public_verified": true,
+      "public_episode_date": "2026-07-12",
+      "article_sha256": "54178e6e7ce92ab5c593d82c5780afc6222cbb5ce23a56fa4df733ba0e662e56",
+      "evidence": {
+        "approved_site_release": "408e030aa03f69175a69f3d9dee8a5722de1115f",
+        "public_manifest": "https://theailabreport.com/blog/posts.json",
+        "format_and_episode_date_source": "C:\\MagruderMedia\\AI-Lab\\Production\\Deliverables\\Competitive-Intelligence\\2026-10-14\\Channel-60-Video-Inventory.csv",
+        "source_sha256": "02bdfbc674220a7f0e2b2d0e45baa75e82722f080fa31320eeb600fe2e1c1985",
+        "checked_date": "2026-10-14"
+      },
+      "image_path": null
+    },
+    {
+      "slug": "anthropic-claude-tag-enterprise-ai-slack",
+      "youtube_id": "QlShtebe6dU",
+      "episode_format": "long-form",
+      "approval_status": "approved",
+      "publication_status": "public",
+      "public_verified": true,
+      "public_episode_date": "2026-07-13",
+      "article_sha256": "3701bb945bd9a93e4ebd62d8e894b0b4d4b7ba07ed59ece69fbd1eb8a823b9de",
+      "evidence": {
+        "approved_site_release": "408e030aa03f69175a69f3d9dee8a5722de1115f",
+        "public_manifest": "https://theailabreport.com/blog/posts.json",
+        "format_and_episode_date_source": "C:\\MagruderMedia\\AI-Lab\\Production\\Deliverables\\Competitive-Intelligence\\2026-10-14\\Channel-60-Video-Inventory.csv",
+        "source_sha256": "02bdfbc674220a7f0e2b2d0e45baa75e82722f080fa31320eeb600fe2e1c1985",
+        "checked_date": "2026-10-14"
+      },
+      "image_path": null
+    },
+    {
+      "slug": "ai-world-cup-prediction-reasoning-vs-luck",
+      "youtube_id": "YGFIDPcuYqU",
+      "episode_format": "long-form",
+      "approval_status": "approved",
+      "publication_status": "public",
+      "public_verified": true,
+      "public_episode_date": "2026-07-22",
+      "article_sha256": "c98bb929ba4d7b11307006dcfb777d92f0ed85b084bda9e79097d1ffa8943fcf",
+      "evidence": {
+        "approved_site_release": "408e030aa03f69175a69f3d9dee8a5722de1115f",
+        "public_manifest": "https://theailabreport.com/blog/posts.json",
+        "format_and_episode_date_source": "C:\\MagruderMedia\\AI-Lab\\Production\\Deliverables\\Competitive-Intelligence\\2026-10-14\\Channel-60-Video-Inventory.csv",
+        "source_sha256": "02bdfbc674220a7f0e2b2d0e45baa75e82722f080fa31320eeb600fe2e1c1985",
+        "checked_date": "2026-10-14"
+      },
+      "image_path": "assets/editorial/ai-world-cup-prediction-reasoning-vs-luck.webp"
+    },
+    {
+      "slug": "widening-ai-gap-capability-control",
+      "youtube_id": "wSqXE458mQQ",
+      "episode_format": "long-form",
+      "approval_status": "approved",
+      "publication_status": "public",
+      "public_verified": true,
+      "public_episode_date": "2026-07-23",
+      "article_sha256": "5050bebbcf40d7ac8b34bbe5d045446fef0e0e6ecaae893d53ee217ebc4f1fa1",
+      "evidence": {
+        "approved_site_release": "408e030aa03f69175a69f3d9dee8a5722de1115f",
+        "public_manifest": "https://theailabreport.com/blog/posts.json",
+        "format_and_episode_date_source": "C:\\MagruderMedia\\AI-Lab\\Production\\Deliverables\\Competitive-Intelligence\\2026-10-14\\Channel-60-Video-Inventory.csv",
+        "source_sha256": "02bdfbc674220a7f0e2b2d0e45baa75e82722f080fa31320eeb600fe2e1c1985",
+        "checked_date": "2026-10-14"
+      },
+      "image_path": null
+    },
+    {
+      "slug": "how-ai-really-works-prediction-not-truth",
+      "youtube_id": "2wtyam-GNyI",
+      "episode_format": "long-form",
+      "approval_status": "approved",
+      "publication_status": "public",
+      "public_verified": true,
+      "public_episode_date": "2026-07-26",
+      "article_sha256": "1d8c61ba78d8d1e35ea88ccedaca6e37dbe711b42395fd1f2cd85b3033c47680",
+      "evidence": {
+        "approved_site_release": "408e030aa03f69175a69f3d9dee8a5722de1115f",
+        "public_manifest": "https://theailabreport.com/blog/posts.json",
+        "format_and_episode_date_source": "C:\\MagruderMedia\\AI-Lab\\Production\\Deliverables\\Competitive-Intelligence\\2026-10-14\\Channel-60-Video-Inventory.csv",
+        "source_sha256": "02bdfbc674220a7f0e2b2d0e45baa75e82722f080fa31320eeb600fe2e1c1985",
+        "checked_date": "2026-10-14"
+      },
+      "image_path": "assets/editorial/how-ai-really-works-prediction-not-truth.webp"
+    },
+    {
+      "slug": "elon-musk-tesla-spacex-merger-inevitable",
+      "youtube_id": "ARGu6snEczM",
+      "episode_format": "long-form",
+      "approval_status": "approved",
+      "publication_status": "public",
+      "public_verified": true,
+      "public_episode_date": "2026-07-27",
+      "article_sha256": "3c018f9e0dac408e5731b13605abb428bffd50d7803494cf8d8d3ec63d5aa7eb",
+      "evidence": {
+        "approved_site_release": "408e030aa03f69175a69f3d9dee8a5722de1115f",
+        "public_manifest": "https://theailabreport.com/blog/posts.json",
+        "format_and_episode_date_source": "C:\\MagruderMedia\\AI-Lab\\Production\\Deliverables\\Competitive-Intelligence\\2026-10-14\\Channel-60-Video-Inventory.csv",
+        "source_sha256": "02bdfbc674220a7f0e2b2d0e45baa75e82722f080fa31320eeb600fe2e1c1985",
+        "checked_date": "2026-10-14"
+      },
+      "image_path": null
+    },
+    {
+      "slug": "ai-agents-bank-accounts-cloudflare-wallets",
+      "youtube_id": "BeUwxpw8kuE",
+      "episode_format": "long-form",
+      "approval_status": "approved",
+      "publication_status": "public",
+      "public_verified": true,
+      "public_episode_date": "2026-08-05",
+      "article_sha256": "ba40e15faa1ac5300e7094012cf5be97b123fece7da965c23c82833cdee98d19",
+      "evidence": {
+        "approved_site_release": "408e030aa03f69175a69f3d9dee8a5722de1115f",
+        "public_manifest": "https://theailabreport.com/blog/posts.json",
+        "format_and_episode_date_source": "C:\\MagruderMedia\\AI-Lab\\Production\\Deliverables\\Competitive-Intelligence\\2026-10-14\\Channel-60-Video-Inventory.csv",
+        "source_sha256": "02bdfbc674220a7f0e2b2d0e45baa75e82722f080fa31320eeb600fe2e1c1985",
+        "checked_date": "2026-10-14"
+      },
+      "image_path": null
+    },
+    {
+      "slug": "how-ai-really-works-prediction-not-thinks",
+      "youtube_id": "TxaWLkut3-M",
+      "episode_format": "long-form",
+      "approval_status": "approved",
+      "publication_status": "public",
+      "public_verified": true,
+      "public_episode_date": "2026-08-09",
+      "article_sha256": "38fcc1df57d1185584f296dde7be2231ee0236c596c6337dbd40c0a146ca65ff",
+      "evidence": {
+        "approved_site_release": "408e030aa03f69175a69f3d9dee8a5722de1115f",
+        "public_manifest": "https://theailabreport.com/blog/posts.json",
+        "format_and_episode_date_source": "C:\\MagruderMedia\\AI-Lab\\Production\\Deliverables\\Competitive-Intelligence\\2026-10-14\\Channel-60-Video-Inventory.csv",
+        "source_sha256": "02bdfbc674220a7f0e2b2d0e45baa75e82722f080fa31320eeb600fe2e1c1985",
+        "checked_date": "2026-10-14"
+      },
+      "image_path": null
+    },
+    {
+      "slug": "openai-astra-ai-broke-safety-limits",
+      "youtube_id": "2EMFzOnUcBw",
+      "episode_format": "long-form",
+      "approval_status": "approved",
+      "publication_status": "public",
+      "public_verified": true,
+      "public_episode_date": "2026-08-10",
+      "article_sha256": "6918612251976ba212b8a00a4d5776cf087d8617a543e279751a2480fa061620",
+      "evidence": {
+        "approved_site_release": "408e030aa03f69175a69f3d9dee8a5722de1115f",
+        "public_manifest": "https://theailabreport.com/blog/posts.json",
+        "format_and_episode_date_source": "C:\\MagruderMedia\\AI-Lab\\Production\\Deliverables\\Competitive-Intelligence\\2026-10-14\\Channel-60-Video-Inventory.csv",
+        "source_sha256": "02bdfbc674220a7f0e2b2d0e45baa75e82722f080fa31320eeb600fe2e1c1985",
+        "checked_date": "2026-10-14"
+      },
+      "image_path": null
+    },
+    {
+      "slug": "openai-math-problem-credit-dispute-jobs-ai-arms-race",
+      "youtube_id": "GC1z2nM9k3g",
+      "episode_format": "long-form",
+      "approval_status": "approved",
+      "publication_status": "public",
+      "public_verified": true,
+      "public_episode_date": "2026-09-17",
+      "article_sha256": "0e216d116ee8ba183d03a1bf917f6e045f919494221daf78f6d7bd80957dd831",
+      "evidence": {
+        "approved_site_release": "408e030aa03f69175a69f3d9dee8a5722de1115f",
+        "public_manifest": "https://theailabreport.com/blog/posts.json",
+        "format_and_episode_date_source": "C:\\MagruderMedia\\AI-Lab\\Production\\Deliverables\\Competitive-Intelligence\\2026-10-14\\Channel-60-Video-Inventory.csv",
+        "source_sha256": "02bdfbc674220a7f0e2b2d0e45baa75e82722f080fa31320eeb600fe2e1c1985",
+        "checked_date": "2026-10-14"
+      },
+      "image_path": "assets/editorial/openai-math-problem-credit-dispute-jobs-ai-arms-race.webp"
+    },
+    {
+      "slug": "ai-cant-slow-down-builders-say-it-should",
+      "youtube_id": "osKF0XSr1uE",
+      "episode_format": "long-form",
+      "approval_status": "approved",
+      "publication_status": "public",
+      "public_verified": true,
+      "public_episode_date": "2026-09-22",
+      "article_sha256": "0c84c0eaffe752258dffc8e35e7691a1e5f7ba7b990b34f4ac59e4a8825c6241",
+      "evidence": {
+        "approved_site_release": "408e030aa03f69175a69f3d9dee8a5722de1115f",
+        "public_manifest": "https://theailabreport.com/blog/posts.json",
+        "format_and_episode_date_source": "C:\\MagruderMedia\\AI-Lab\\Production\\Deliverables\\Competitive-Intelligence\\2026-10-14\\Channel-60-Video-Inventory.csv",
+        "source_sha256": "02bdfbc674220a7f0e2b2d0e45baa75e82722f080fa31320eeb600fe2e1c1985",
+        "checked_date": "2026-10-14"
+      },
+      "image_path": "assets/editorial/ai-cant-slow-down-builders-say-it-should.webp"
+    },
+    {
+      "slug": "openai-agents-wiki-coordination-board-astra",
+      "youtube_id": "-96adb_GvZQ",
+      "episode_format": "long-form",
+      "approval_status": "approved",
+      "publication_status": "public",
+      "public_verified": true,
+      "public_episode_date": "2026-09-10",
+      "article_sha256": "c027d3b6335680ad6ca12e5d64b6baf4727aa5440ec3dd9ed611094d14e327bd",
+      "evidence": {
+        "approved_site_release": "408e030aa03f69175a69f3d9dee8a5722de1115f",
+        "public_manifest": "https://theailabreport.com/blog/posts.json",
+        "format_and_episode_date_source": "C:\\MagruderMedia\\AI-Lab\\Production\\Deliverables\\Competitive-Intelligence\\2026-10-14\\Channel-60-Video-Inventory.csv",
+        "source_sha256": "02bdfbc674220a7f0e2b2d0e45baa75e82722f080fa31320eeb600fe2e1c1985",
+        "checked_date": "2026-10-14"
+      },
+      "image_path": "assets/editorial/openai-agents-wiki-coordination-board-astra.webp"
+    },
+    {
+      "slug": "tesla-cybercab-45-cars-no-livestream-austin",
+      "youtube_id": "TRvL83IKg60",
+      "episode_format": "long-form",
+      "approval_status": "approved",
+      "publication_status": "public",
+      "public_verified": true,
+      "public_episode_date": "2026-09-07",
+      "article_sha256": "71a6abedcecabeb98eb650b414c1f8ab59be34afb22b1aa5874a2c035b1e3da4",
+      "evidence": {
+        "approved_site_release": "408e030aa03f69175a69f3d9dee8a5722de1115f",
+        "public_manifest": "https://theailabreport.com/blog/posts.json",
+        "format_and_episode_date_source": "C:\\MagruderMedia\\AI-Lab\\Production\\Deliverables\\Competitive-Intelligence\\2026-10-14\\Channel-60-Video-Inventory.csv",
+        "source_sha256": "02bdfbc674220a7f0e2b2d0e45baa75e82722f080fa31320eeb600fe2e1c1985",
+        "checked_date": "2026-10-14"
+      },
+      "image_path": null
+    },
+    {
+      "slug": "what-grok-bot-actually-is-90-percent-done",
+      "youtube_id": "zErUdqO1dA0",
+      "episode_format": "long-form",
+      "approval_status": "approved",
+      "publication_status": "public",
+      "public_verified": true,
+      "public_episode_date": "2026-09-02",
+      "article_sha256": "e126997047f8085739ab19234d90a1b9cb1053f23e345ea40efbdc75a6a728c9",
+      "evidence": {
+        "approved_site_release": "408e030aa03f69175a69f3d9dee8a5722de1115f",
+        "public_manifest": "https://theailabreport.com/blog/posts.json",
+        "format_and_episode_date_source": "C:\\MagruderMedia\\AI-Lab\\Production\\Deliverables\\Competitive-Intelligence\\2026-10-14\\Channel-60-Video-Inventory.csv",
+        "source_sha256": "02bdfbc674220a7f0e2b2d0e45baa75e82722f080fa31320eeb600fe2e1c1985",
+        "checked_date": "2026-10-14"
+      },
+      "image_path": null
+    },
+    {
+      "slug": "ai-safety-index-every-major-lab-graded-nobody-passed",
+      "youtube_id": "29xzCqi9TKY",
+      "episode_format": "long-form",
+      "approval_status": "approved",
+      "publication_status": "public",
+      "public_verified": true,
+      "public_episode_date": "2026-08-13",
+      "article_sha256": "ab38da78a40461cc4f03f4638fee1846ad452639c3d6d50db1aaac0552bb60b3",
+      "evidence": {
+        "approved_site_release": "408e030aa03f69175a69f3d9dee8a5722de1115f",
+        "public_manifest": "https://theailabreport.com/blog/posts.json",
+        "format_and_episode_date_source": "C:\\MagruderMedia\\AI-Lab\\Production\\Deliverables\\Competitive-Intelligence\\2026-10-14\\Channel-60-Video-Inventory.csv",
+        "source_sha256": "02bdfbc674220a7f0e2b2d0e45baa75e82722f080fa31320eeb600fe2e1c1985",
+        "checked_date": "2026-10-14"
+      },
+      "image_path": null
+    },
+    {
+      "slug": "anthropic-fable-5-drone-flew-into-wall-dronebench",
+      "youtube_id": "qYlNsYiN1j8",
+      "episode_format": "long-form",
+      "approval_status": "approved",
+      "publication_status": "public",
+      "public_verified": true,
+      "public_episode_date": "2026-08-17",
+      "article_sha256": "889c404efc463008cfaa380615de52b3bb87755698ad5ad777a0119258428649",
+      "evidence": {
+        "approved_site_release": "408e030aa03f69175a69f3d9dee8a5722de1115f",
+        "public_manifest": "https://theailabreport.com/blog/posts.json",
+        "format_and_episode_date_source": "C:\\MagruderMedia\\AI-Lab\\Production\\Deliverables\\Competitive-Intelligence\\2026-10-14\\Channel-60-Video-Inventory.csv",
+        "source_sha256": "02bdfbc674220a7f0e2b2d0e45baa75e82722f080fa31320eeb600fe2e1c1985",
+        "checked_date": "2026-10-14"
+      },
+      "image_path": null
+    },
+    {
+      "slug": "openai-gpt-5-6-restricted-government-covered-frontier-models",
+      "youtube_id": "2-WULLvgnso",
+      "episode_format": "long-form",
+      "approval_status": "approved",
+      "publication_status": "public",
+      "public_verified": true,
+      "public_episode_date": "2026-07-05",
+      "article_sha256": "749367370449f85b25b298007647f77b0e033777b6a888067c91c2c7147270b7",
+      "evidence": {
+        "approved_site_release": "408e030aa03f69175a69f3d9dee8a5722de1115f",
+        "public_manifest": "https://theailabreport.com/blog/posts.json",
+        "format_and_episode_date_source": "C:\\MagruderMedia\\AI-Lab\\Production\\Deliverables\\Competitive-Intelligence\\2026-10-14\\Channel-60-Video-Inventory.csv",
+        "source_sha256": "02bdfbc674220a7f0e2b2d0e45baa75e82722f080fa31320eeb600fe2e1c1985",
+        "checked_date": "2026-10-14"
+      },
+      "image_path": null
+    },
+    {
+      "slug": "how-i-make-ai-videos-zero-camera-zero-editor",
+      "youtube_id": "aqh8wd7wiuI",
+      "episode_format": "long-form",
+      "approval_status": "approved",
+      "publication_status": "public",
+      "public_verified": true,
+      "public_episode_date": "2026-08-24",
+      "article_sha256": "4ba0903be4d8dc456949e4a583b0d61a9676ba09dfa6561cc1deb7021770955f",
+      "evidence": {
+        "approved_site_release": "408e030aa03f69175a69f3d9dee8a5722de1115f",
+        "public_manifest": "https://theailabreport.com/blog/posts.json",
+        "format_and_episode_date_source": "C:\\MagruderMedia\\AI-Lab\\Production\\Deliverables\\Competitive-Intelligence\\2026-10-14\\Channel-60-Video-Inventory.csv",
+        "source_sha256": "02bdfbc674220a7f0e2b2d0e45baa75e82722f080fa31320eeb600fe2e1c1985",
+        "checked_date": "2026-10-14"
+      },
+      "image_path": "assets/editorial/how-i-make-ai-videos-zero-camera-zero-editor.webp"
+    },
+    {
+      "slug": "mistral-large-4-europe-ai-benchmarks",
+      "youtube_id": "_uTuoUPnRuQ",
+      "episode_format": "long-form",
+      "approval_status": "approved",
+      "publication_status": "public",
+      "public_verified": true,
+      "public_episode_date": "2026-10-09",
+      "article_sha256": "a3dcf3b4c50cccba7494559ba38ec6cf75a2011bfe7c841c5575ac4b5555ff3f",
+      "evidence": {
+        "approved_site_release": "408e030aa03f69175a69f3d9dee8a5722de1115f",
+        "public_manifest": "https://theailabreport.com/blog/posts.json",
+        "format_and_episode_date_source": "C:\\MagruderMedia\\AI-Lab\\Production\\Deliverables\\Competitive-Intelligence\\2026-10-14\\Channel-60-Video-Inventory.csv",
+        "source_sha256": "02bdfbc674220a7f0e2b2d0e45baa75e82722f080fa31320eeb600fe2e1c1985",
+        "checked_date": "2026-10-14"
+      },
+      "image_path": "assets/editorial/mistral-large-4-europe-ai-benchmarks.webp"
+    }
+  ]
+}

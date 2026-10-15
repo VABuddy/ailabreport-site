@@ -1,0 +1,28 @@
+{
+  "cases": [
+    {
+      "slug": "how-i-make-ai-videos-zero-camera-zero-editor",
+      "label": "Published workflow test \u00b7 August 2026",
+      "headline": "A working video pipeline\u2014with failure points.",
+      "question": "How do the avatar, compositing, and final edit fit together?",
+      "outcome": "Jeremy reports that long composite renders failed; splitting them into shorter segments became part of his workflow.",
+      "limitations": "An individual production report, not a controlled comparison. Manual assembly and separate credit costs remain.",
+      "verification": "Reported in the published walkthrough; current vendor limits and prices have not been revalidated here.",
+      "source": "blog/posts/how-i-make-ai-videos-zero-camera-zero-editor.html",
+      "source_sha256": "4ba0903be4d8dc456949e4a583b0d61a9676ba09dfa6561cc1deb7021770955f"
+    },
+    {
+      "slug": "ai-world-cup-prediction-reasoning-vs-luck",
+      "label": "Historical prediction experiment \u00b7 July 2026",
+      "headline": "Four models, one prediction experiment.",
+      "question": "Does a correct prediction demonstrate dependable reasoning?",
+      "outcome": "The July post reports that one model matched both finalists.",
+      "limitations": "One tournament is not a repeatable benchmark or evidence of reliable forecasting. The reported outcome has not been independently rechecked here.",
+      "verification": "Historical reported result, not a newly verified scorecard.",
+      "source": "blog/posts/ai-world-cup-prediction-reasoning-vs-luck.html",
+      "source_sha256": "c98bb929ba4d7b11307006dcfb777d92f0ed85b084bda9e79097d1ffa8943fcf",
+      "related": "2026-world-cup-ai-predictions"
+    }
+  ],
+  "pending_run5": "Not included until the episode and companion article are approved AND publicly verified."
+}
