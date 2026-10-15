@@ -394,5 +394,16 @@
     "display_date": "October 12, 2026",
     "iso_date": "2026-10-12",
     "sort_key": "2026-10-12"
+  },
+  {
+    "slug": "ai-email-pdf-checked-action-list",
+    "title": "AI Turned an Email and PDF Into a Checklist. Did It Keep the Meaning?",
+    "dek": "Every task was found. Two timing interpretations still needed checking. Here is what one fictional Gemini experiment teaches about reviewing an AI checklist.",
+    "pillar": "AI Tools & Tutorials",
+    "tag_class": "",
+    "youtube_id": "2nwuJKKNqJY",
+    "display_date": "October 15, 2026",
+    "iso_date": "2026-10-15",
+    "sort_key": "2026-10-15"
   }
 ]
