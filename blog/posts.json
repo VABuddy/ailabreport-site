@@ -416,5 +416,38 @@
     "display_date": "October 16, 2026",
     "iso_date": "2026-10-16",
     "sort_key": "2026-10-16"
+  },
+  {
+    "slug": "chatgpt-father-son-fishing-trip-planning-lessons",
+    "title": "ChatGPT Planned Our Fishing Trip. Here’s What Still Needed a Human.",
+    "dek": "The goal was Andrew’s first rainbow trout. ChatGPT organized the weekend; a route check, flexible choices and generous anglers made it work.",
+    "pillar": "AI Experiments",
+    "tag_class": "",
+    "youtube_id": "YjFSQRaULmM",
+    "display_date": "November 2, 2026",
+    "iso_date": "2026-11-02",
+    "sort_key": "2026-11-02"
+  },
+  {
+    "slug": "grok-bot-research-handoff-human-review",
+    "title": "Grok Bot Explained: Define the Job, Keep the Decision",
+    "dek": "A trip shortlist or customer brief is a useful starting point. The important part is defining the deliverable, sources and stopping point before granting access.",
+    "pillar": "The Musk AI Empire",
+    "tag_class": "blue",
+    "youtube_id": "6xFFvcIkdFM",
+    "display_date": "November 2, 2026",
+    "iso_date": "2026-11-02",
+    "sort_key": "2026-11-02"
+  },
+  {
+    "slug": "chatgpt-dot-pc-shut-down-research-deadline-test",
+    "title": "My PC Was Shut Down. What Did ChatGPT’s Dot Actually Complete?",
+    "dek": "One assignment, a shutdown interval and a saved reply timestamp. The result supports a bounded cloud follow-up, with important limits on what was verified.",
+    "pillar": "OpenAI & ChatGPT",
+    "tag_class": "",
+    "youtube_id": "nkRBWOULHms",
+    "display_date": "November 2, 2026",
+    "iso_date": "2026-11-02",
+    "sort_key": "2026-11-02"
   }
 ]
