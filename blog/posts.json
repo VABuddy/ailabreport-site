@@ -449,5 +449,16 @@
     "display_date": "November 2, 2026",
     "iso_date": "2026-11-02",
     "sort_key": "2026-11-02"
+  },
+  {
+    "slug": "chatgpt-interactive-calculator-numbers-revisions-reload",
+    "title": "ChatGPT built a calculator in its answer. Here’s how we checked it.",
+    "dek": "We checked a ChatGPT calculator’s numbers, changed one ingredient and reloaded the chat. The response returned, but its selected serving value reset.",
+    "pillar": "OpenAI & ChatGPT",
+    "tag_class": "",
+    "youtube_id": "80HgHY_GhpQ",
+    "display_date": "November 4, 2026",
+    "iso_date": "2026-11-04",
+    "sort_key": "2026-11-04"
   }
 ]

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ChatGPT built a calculator in its answer. Here’s how we checked it. — The AI Lab Report</title>
+<meta name="description" content="We checked a ChatGPT calculator’s numbers, changed one ingredient and reloaded the chat. The response returned, but its selected serving value reset.">
+<meta property="og:title" content="ChatGPT built a calculator in its answer. Here’s how we checked it.">
+<meta property="og:description" content="We checked a ChatGPT calculator’s numbers, changed one ingredient and reloaded the chat. The response returned, but its selected serving value reset.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://theailabreport.com/blog/posts/chatgpt-interactive-calculator-numbers-revisions-reload.html">
+<meta property="article:published_time" content="2026-11-04">
+<link rel="canonical" href="https://theailabreport.com/blog/posts/chatgpt-interactive-calculator-numbers-revisions-reload.html">
+<link rel="stylesheet" href="/assets/style.css">
+
+<!-- Structured data for search / AI answer engines -->
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BlogPosting", "headline": "ChatGPT built a calculator in its answer. Here’s how we checked it.", "description": "We checked a ChatGPT calculator’s numbers, changed one ingredient and reloaded the chat. The response returned, but its selected serving value reset.", "author": {"@type": "Person", "name": "Jeremy Magruder"}, "publisher": {"@type": "Organization", "name": "The AI Lab Report", "alternateName": "Magruder Media"}, "mainEntityOfPage": "https://theailabreport.com/blog/posts/chatgpt-interactive-calculator-numbers-revisions-reload.html", "datePublished": "2026-11-04"}</script>
+
+<!-- GOOGLE ANALYTICS — replace G-0S716J7KVX with your GA4 ID -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0S716J7KVX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-0S716J7KVX');
+</script>
+<script defer src="/assets/publication.js"></script>
+</head>
+<body>
+<div class="glowfield"></div>
+
+<a class="skip-link" href="#main">Skip to content</a><header class="site-header"><div class="container header-row"><a class="pub-brand" href="/" aria-label="The AI Lab Report — Home"><img src="/assets/logo-small.png" alt="" width="44" height="44"><span><span class="wordmark">THE AI LAB REPORT</span><span class="pub-tagline">AI News · Real-World Tests · Practical Tools</span></span></a><nav class="desktop-nav" aria-label="Primary"><a href="/">Home</a><a href="/#latest">Latest</a><a href="/#experiments">Experiments</a><a href="/blog/">Blog</a><a class="button" href="/newsletter/">Subscribe</a></nav><details class="mobile-menu"><summary>Menu</summary><nav aria-label="Mobile"><a href="/">Home</a><a href="/#latest">Latest</a><a href="/#experiments">Experiments</a><a href="/blog/">Blog</a><a class="button" href="/newsletter/">Subscribe</a></nav></details></div></header>
+
+<main id="main" tabindex="-1"><article>
+  <div class="post-wrap">
+    <div class="post-hero">
+      <div class="meta">
+        <span class="tag ">OpenAI &amp; ChatGPT</span>
+        <span class="date">November 4, 2026</span>
+      </div>
+      <h1>ChatGPT built a calculator in its answer. Here’s how we checked it.</h1>
+      <p class="dek">We checked a ChatGPT calculator’s numbers, changed one ingredient and reloaded the chat. The response returned, but its selected serving value reset.</p>
+    </div>
+
+    <div class="video-embed">
+      <iframe src="https://www.youtube.com/embed/80HgHY_GhpQ" title="ChatGPT built a calculator in its answer. Here’s how we checked it." allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
+
+    <div class="post-body">
+<p>An answer can be more useful when you can change an input and see the result. In our Run #7 experiment, ChatGPT returned a small interactive recipe-scaling calculator directly in the chat response. We used the control, checked the numbers, changed a starting fact and reopened the saved conversation.</p>
+<p>This was a fictional arithmetic example, not a cooking recommendation. It was also one observed experiment in our account, with Chat mode and Instant selected. It does not establish that every prompt or account will return the same interface.</p>
+<h2>Start with facts you can check</h2>
+<p>Our two-serving base was 150 grams of rice, 300 milliliters of water and 100 grams of peas. We asked for a servings control from one to eight, visible units and the scaling rule, directly inside the answer. We did not build a separate website.</p>
+<p>At two servings, the displayed quantities matched those starting facts. At eight, the original calculator showed 600 grams of rice, 1,200 milliliters of water and 400 grams of peas. Independently, eight divided by two gives a multiplier of four. Each starting quantity multiplied by four matched the displayed result. At one serving, the quantities halved correctly: 75 grams, 150 milliliters and 50 grams.</p>
+<p>Those checks support this particular calculator. They do not guarantee the correctness of every interactive answer.</p>
+<h2>A changed fact created another version</h2>
+<p>Next, we asked for a two-serving rice base of 180 grams while keeping water and peas unchanged. The follow-up produced a separate calculator below the first and labeled the updated base.</p>
+<p>At eight servings, the revised rice quantity was 720 grams. Water and peas stayed at the original eight-serving quantities. The meaningful test was whether the calculation actually used the changed fact while preserving the unchanged ones. It did in this experiment.</p>
+<p>The original calculator remained above it. If a conversation contains several versions, check which response you are using.</p>
+<h2>A saved response is different from a saved selection</h2>
+<p>Reset returned the original calculator to two servings. We then selected eight and reloaded the saved chat. After loading settled, the calculator returned at two servings. Our selected eight had not survived.</p>
+<p>The transient loading state was not evidence that the response had disappeared. The settled result was narrower: the response returned, while the selected value reset. Before relying on an adjusted tool later, reopen it and check the settings that matter.</p>
+<h2>Narrow browser checks are not physical-phone tests</h2>
+<p>We checked the original calculator in 400- and 360-pixel browser views. Labels and quantities fitted. The control worked at 400 pixels, and Reset worked at 360. We had to scroll to see the whole tool.</p>
+<p>These were desktop browser simulations, not tests on a physical phone or in the mobile app. A useful desktop result still deserves a check on the device where you intend to use it.</p>
+<h2>Try a small task you already understand</h2>
+<p>Give ChatGPT the starting facts, name the control you want, and ask it to show the rule and units. Then check one easy result, change one starting fact, and reopen the chat. These checks tell you more about whether the tool fits the job than appearance alone.</p>
+<p>We found the interactive answer useful for this small test. We have not established that it replaces a dedicated app, or that another prompt will produce the same layout.</p>
+<p><strong>Watch:</strong> <a href="https://youtu.be/80HgHY_GhpQ">Full Run #7 experiment</a>.</p>
+<p><strong>Sources:</strong> Original Magruder Media experiment, November 3, 2026; preserved native recordings, screenshots and arithmetic checks. The private conversation is retained internally and is not a public resource link. <a href="https://chatgpt.com/">ChatGPT</a> is the product used in this test.</p>
+<p><strong>Production disclosure:</strong> Jeremy’s presenter uses an authorized AI avatar and cloned voice. Product captures are genuine. Music is “Close Up” by Michael Ramir C., via Mixkit, under its Stock Music Free License. Sound accents are original Magruder Media procedural effects. No commercial consideration applies to this episode. This article has no affiliate links or paid placement.</p>
+<p><strong>Music source:</strong> https://mixkit.co/free-stock-music/tag/technology/ (voluntary credit; no raw music download is distributed).</p>
+
+      <div class="kit-cta">
+        <div class="eyebrow">Stay ahead of the story</div>
+        <h3>Get the breakdowns before the noise catches up</h3>
+        <p>The AI stories that matter, decoded and sent straight to you.</p>
+        <a class="btn" href="https://the-ai-lab-report.kit.com/ecbaa90629" target="_blank" rel="noopener">Join the newsletter →</a>
+      </div>
+
+      <div class="tools-note">
+
+      </div>
+    </div>
+  </div>
+</article></main>
+
+<footer class="site-footer"><div class="container"><div class="footer-top"><div><a class="pub-brand" href="/" aria-label="The AI Lab Report — Home"><img src="/assets/logo-small.png" alt="" width="44" height="44"><span><span class="wordmark">THE AI LAB REPORT</span><span class="pub-tagline">AI News · Real-World Tests · Practical Tools</span></span></a><p class="footer-description">AI news, real-world tests, and practical tools. Reported and explored by Jeremy Magruder.</p></div><nav class="footer-links" aria-label="Footer"><a href="/blog/">All articles</a><a href="/newsletter/">Newsletter & guide</a><a href="https://www.youtube.com/@TheAiLabReport" target="_blank" rel="noopener">YouTube ↗</a></nav></div><div class="footer-bottom"><span>© 2026 Magruder Media · The AI Lab Report</span><span>Watch the test. Read the context. Make your own call.</span></div></div></footer>
+
+</body>
+</html>
